@@ -1,25 +1,30 @@
-# Deloitte Data Analytics - Forage
 
-**Purpose:** This repo contains anonymized practice materials based on concepts taught in a Deloitte Data Analytics module:
-- Excel data update examples (conditional updates, pivot tables)
-- Tableau dashboard screenshots (anonymized data)
-- Step-by-step analysis notes and practice solutions
+# Deloitte Australia Data Analytics Job Simulation (Forage)
 
-## Contents
-- `data/` — anonymized sample Excel files used for practice
-- `excel-tasks/` — Excel tasks and the update process notes
-- `tableau-visualizations/` — exported dashboard screenshots (PNG)
-- `analysis/` — data-cleaning and analysis steps
-- `solutions/` — example solutions for practice exercises
+This repository contains my work for the **Deloitte Australia Data Analytics Job Simulation** (July 2025) on Forage.
 
-## How to use
-1. Download the files from the `data/` folder.
-2. Follow steps in `analysis/data_analysis_steps.md` to reproduce key calculations.
-3. Open `tableau-visualizations/` PNGs to see the dashboard layout and replicate using your own Tableau.
+## 📌 Overview
+- **Platform:** Forage
+- **Focus Areas:** Data Analysis, Forensic Technology
+- **Tools Used:** Tableau, Excel
 
-## Disclaimer
-This repository contains **self-created and anonymized** practice material only. It does **not** include or replicate any proprietary Deloitte content or official answers. Use these files for educational purposes only.
+## 🛠 Tasks Completed
+1. Created an interactive **Tableau dashboard** to visualize key metrics.
+2. Used **Excel** to classify data according to given conditions and draw business conclusions.
 
-## Tools used
-- Microsoft Excel (Pivot Tables, formulas)
-- Tableau (Dashboard export)
+## 📂 Files
+- `Tableau-Dashboard.png` → Screenshot of my completed Tableau dashboard.
+- `Classified-Data.xlsx` → Excel file with classification logic applied.
+- `Sample-Data.xlsx` → Dummy dataset for practice.
+
+## 🎯 Skills Demonstrated
+- Data visualization (Tableau)
+- Data classification & cleaning (Excel)
+- Business insights generation
+
+## 🔗 Links
+- [Forage Deloitte Simulation Info](https://www.theforage.com/)
+
+---
+
+> ⚠️ This repository is for **educational purposes** only. No confidential or proprietary Deloitte data is included.
