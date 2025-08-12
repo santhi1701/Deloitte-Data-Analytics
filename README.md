@@ -1,29 +1,27 @@
 
 # Deloitte Australia Data Analytics Job Simulation (Forage)
 
-This repository contains my work for the **Deloitte Australia Data Analytics Job Simulation** (July 2025) on Forage.
+This repository contains my submissions for the Deloitte STEM Virtual Program. As part of this program, participants assist Daikibo Industrials, a global leader in heavy machinery manufacturing, in tackling various operational challenges. This repository documents my completion of three courses in the Deloitte Virtual Internship on Forage.
 
-## 📌 Overview
-- **Platform:** Forage
-- **Focus Areas:** Data Analysis, Forensic Technology
-- **Tools Used:** Tableau, Excel
+Deloitte - Data Analytics
+Task 1: Data Analysis
+Daikibo's tech team compiled one month’s telemetry data (May 2021) from four factories:
 
-## 🛠 Tasks Completed
-1. Created an interactive **Tableau dashboard** to visualize key metrics.
-2. Used **Excel** to classify data according to given conditions and draw business conclusions.
+Daikibo Factory Meiyo (Tokyo, Japan)
+Daikibo Factory Seiko (Osaka, Japan)
+Daikibo Berlin (Berlin, Germany)
+Daikibo Shenzhen (Shenzhen, China)
+Each site operates nine types of machines, reporting status updates every 10 minutes. The goal is to analyze:
 
-## 📂 Files
-- `Tableau-Dashboard.png` → Screenshot of my completed Tableau dashboard.
-- `Equality_table.xlsx` → Excel file with classification logic applied.
+Which location experienced the most machine failures?
+Which machines had the highest failure rate at that location?
+Key Learnings:
 
-## 🎯 Skills Demonstrated
-- Data visualization (Tableau)
-- Data classification & cleaning (Excel)
-- Business insights generation
+Utilizing Tableau to create interactive dashboards
+Extracting insights from large datasets
+Task 2: Forensic Technology
+Due to internal concerns over gender pay inequality, Daikibo wants to quantify the fairness of compensation across various job roles and locations. The Forensic Technology team has developed an algorithm to measure gender pay equality.
 
-## 🔗 Links
-- [Forage Deloitte Simulation Info](https://www.theforage.com/)
+Key Learnings:
 
----
-
-> ⚠️ This repository is for **educational purposes** only. No confidential or proprietary Deloitte data is included.
+Applying Excel functions for data analysis and pattern recognition
