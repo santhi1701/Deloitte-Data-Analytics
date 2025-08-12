@@ -14,8 +14,7 @@ This repository contains my work for the **Deloitte Australia Data Analytics Job
 
 ## 📂 Files
 - `Tableau-Dashboard.png` → Screenshot of my completed Tableau dashboard.
-- `Classified-Data.xlsx` → Excel file with classification logic applied.
-- `Sample-Data.xlsx` → Dummy dataset for practice.
+- `Equality_table.xlsx` → Excel file with classification logic applied.
 
 ## 🎯 Skills Demonstrated
 - Data visualization (Tableau)
